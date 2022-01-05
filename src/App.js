@@ -4,7 +4,7 @@ import LineChart from "./components/LineChart";
 function App() {
   return (
     <div className="App">
-      <h1>Line Chart </h1>
+      <h1>Bar Chart </h1>
       <div>
         <LineChart />
       </div>
